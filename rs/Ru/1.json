@@ -1,0 +1,27 @@
+{
+  "libs": [],
+  "RunKey": {
+    "progname": "Mr. Ear Wiki 2.0",
+    "lang": "Русский",
+    "os": "HarmonyOS"
+  },
+  "code": [
+    {
+      "command": "dom",
+      "params": {
+        "метод": {
+          "type": "текст",
+          "value": "innerHTML"
+        },
+        "элемент": {
+          "type": "текст",
+          "value": "ActiveMembers"
+        },
+        "значение": {
+          "type": "get",
+          "value": "https://shaman2016scratch.github.io/MrEatWiki/Ru/ActiveMembers.js"
+        }
+      }
+    },
+  ],
+}
