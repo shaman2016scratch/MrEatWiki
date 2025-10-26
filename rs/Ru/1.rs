@@ -5,5 +5,7 @@
     "lang": "Русский",
     "os": "HarmonyOS"
   },
-  "code": [],
+  "code": [
+    {"command":"","":""},
+  ],
 }
