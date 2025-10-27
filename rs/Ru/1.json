@@ -23,5 +23,22 @@
         }
       }
     },
+    {
+      "command": "dom",
+      "params": {
+        "метод": {
+          "type": "текст",
+          "value": "innerHTML"
+        },
+        "элемент": {
+          "type": "текст",
+          "value": "news"
+        },
+        "значение": {
+          "type": "get",
+          "value": "https://shaman2016scratch.github.io/MrEatWiki/Ru/news.js"
+        }
+      }
+    },
   ],
 }
