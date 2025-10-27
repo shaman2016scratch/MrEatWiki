@@ -19,7 +19,7 @@
         },
         "значение": {
           "type": "get",
-          "value": "https://shaman2016scratch.github.io/MrEatWiki/Ru/ActiveMembers.js"
+          "value": "https://shaman2016scratch.github.io/MrEatWiki/Ru/ActiveMembers.txt"
         }
       }
     },
@@ -36,7 +36,7 @@
         },
         "значение": {
           "type": "get",
-          "value": "https://shaman2016scratch.github.io/MrEatWiki/Ru/news.js"
+          "value": "https://shaman2016scratch.github.io/MrEatWiki/Ru/news.txt"
         }
       }
     },
