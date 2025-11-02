@@ -1,10 +1,6 @@
 {
+  "terminal": "",
   "libs": [],
-  "RunKey": {
-    "progname": "Mr. Ear Wiki 2.0",
-    "lang": "Русский",
-    "os": "HarmonyOS"
-  },
   "code": [
     {
       "command": "dom",
